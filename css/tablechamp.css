@@ -1267,7 +1267,7 @@ body.ru .sidebar .sidebar-menu a {
 @media only screen and (max-width: 768px) {
   .players-select a {
     width: 48.6%; } 
-  .history .optional {display:none;}
+  .history .optional {display:none !important;}
   .history div span.teamScore, .history div span.teamLabel
     {
       font-size: 14px;
